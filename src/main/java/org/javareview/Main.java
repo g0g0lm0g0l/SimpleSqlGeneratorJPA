@@ -6,11 +6,6 @@ import org.javareview.service.PersonRepositoryImpl;
 import java.sql.*;
 import java.util.List;
 
-/*
-    1. create methods CRUD (maybe only with finds with logical operators?)
-    2. check if the methods exist
-    3. generate sql by its name
- */
 public class Main {
 
     public static void main(String[] args) throws SQLException {
